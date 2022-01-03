@@ -1,0 +1,26 @@
+============= Bem-vindo ao PongBolim =============
+
+              Algumas informações: 
+
+|> A cada chute a bola fica um pouco mais rapida!!
+
+|> Quem fizer 10 gols primeiro, vence.
+
+|> Lembre de ajustar sua tela antes de jogar. tam(800x400)
+
+|> Contem efeitos sonoros,cuidado com o volume.
+
+
+    ========== Controles =============
+
+Controles Jogador 1 - Camisa Preta
+
+        Atacante           Goleiro
+        CIMA = E           CIMA= W
+        BAIXO = D          BAIXO= S
+
+Controles Jogador 2 -Camisa Vermelha
+
+        Atacante          Goleiro
+        CIMA = I          CIMA= O
+        BAIXO = K         BAIXO= L
